@@ -4,6 +4,7 @@ import ContentRowTop from './ContentRowTop';
 import Footer from './Footer';
 import Table from './Table';
 import TableData from './TableData';
+
 function ContentWrapper(){
 
     let info =[{
@@ -39,6 +40,7 @@ function ContentWrapper(){
           premios={info.premios} 
           key={info +index}></TableData>
         ))}
+        
 
       </Table>
       <Footer />

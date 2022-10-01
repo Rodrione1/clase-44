@@ -37,7 +37,8 @@ let user = {
     valor: 49,
     icono: "fas fa-user",
 }
-    let nose = {
+    
+let nose = {
         color:   "warning",
         titulo: "Hola chicos",
         valor: 49,

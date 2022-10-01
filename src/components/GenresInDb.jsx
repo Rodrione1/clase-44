@@ -10,6 +10,8 @@ let genres = [
     {genre: 'Documental'},
     {genre: 'Drama'},
     {genre: 'Fantasia'},
+    {genre: 'Hola flor'},
+    
     
 ]
 
